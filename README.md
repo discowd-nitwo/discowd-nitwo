@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Fusion
+- 👀 I’m interested in coding and animatronics!
+- 🌱 I’m currently learning C# and Python!
+- 📫 How to reach me: add me on discord: dioxfallback
+- 😄 Pronouns: She/They
+- ⚡ Fun fact: I've had to fix so many of my family members computers etc.
