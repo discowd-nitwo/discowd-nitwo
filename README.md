@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fusion
+- 👋 Hi, I’m Avery
 - 👀 I’m interested in coding and animatronics!
 - 🌱 I’m currently learning C# and Python!
-- 📫 How to reach me: add me on discord: dioxfallback
+- 📫 How to reach me: add me on discord: averyfallbackgames
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I've had to fix so many of my family members computers etc.
