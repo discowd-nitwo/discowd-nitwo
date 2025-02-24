@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avery
 - 👀 I’m interested in coding and animatronics!
 - 🌱 I’m currently learning C# and Python!
-- 📫 How to reach me: add me on discord: poofbooth@novaverse.cc
+- 📫 How to reach me: poofbooth@novaverse.cc
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I've had to fix so many of my family members computers etc.
