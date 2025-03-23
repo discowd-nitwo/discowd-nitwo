@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning C# and Python!
 - 📫 How to reach me: poofbooth@novaverse.cc
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: I've had to fix so many of my family members computers etc.
