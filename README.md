@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Lily
 - 👀 I’m interested in coding and animatronics!
 - 🌱 I’m currently learning C# and Python!
 - 📫 How to reach me: poofbooth@florel.co.uk
