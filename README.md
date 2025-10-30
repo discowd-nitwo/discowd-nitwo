@@ -1,4 +1,4 @@
 - 👀 I’m interested in coding and animatronics!
-- 🌱 I’m currently learning C# and Python!
+- 🌱 I’m currently learning C#, Python & Ruby!
 - 📫 How to reach me: poofbooth@florel.co.uk
-- 😄 Pronouns: She/They
+- 😄 Pronouns: They/Them
